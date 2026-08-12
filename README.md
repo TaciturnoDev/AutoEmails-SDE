@@ -24,3 +24,13 @@ Transformação do fluxo operacional
 Tive de aprender do zero a transformar ( Nome, Email, CPF, CPF repetido... CPF repetido...)
 em (Cliente --> Quantidade de parcelas individuais --> Template HTML --> Fila de envio --> Log --> Dashboard)
 em um curto período de tempo.
+
+<img width="1600" height="792" alt="image" src="https://github.com/user-attachments/assets/fd09d788-0a8d-4d53-befd-90ba639fade8" />
+<img width="1597" height="785" alt="image" src="https://github.com/user-attachments/assets/01d05552-c55b-4549-9c9d-f0b7f30b513b" />
+<img width="1597" height="792" alt="image" src="https://github.com/user-attachments/assets/e3f0f98f-60f2-4dd7-872e-6be0de71d0ce" />
+<img width="1581" height="997" alt="image" src="https://github.com/user-attachments/assets/bfa391d2-6caa-4939-84b1-cb505efbd3ff" />
+<img width="1423" height="357" alt="image" src="https://github.com/user-attachments/assets/6bbaee7d-0009-417a-a89b-2bbfa95abfef" />
+<img width="804" height="1600" alt="image" src="https://github.com/user-attachments/assets/68062ce3-3a3f-4dfe-baea-c68ce6a76c36" />
+
+
+
